@@ -1,7 +1,12 @@
-## Parcel Boilerplate
+# Scroll-based layout switch animations
 
+A scroll-based layout switch animations.
 
-This boilerplate has an `.nvmrc` file, make sure you have nvm installed, if not, [install it](https://github.com/nvm-sh/nvm):
+![Image to Grid Transition featured image](static/cover.png)
+
+[Demo]()
+
+## Installation
 
 ### Run
 
@@ -9,24 +14,19 @@ This boilerplate has an `.nvmrc` file, make sure you have nvm installed, if not,
 nvm use
 ```
 
-### To kickstart the boilerplate, following the steps below:
-
-```bash
-yarn
-
-yarn dev
-```
-
-### If you do not have yarn installed, delete the `yarn.lock` file and install via npm,
+### To kickstart the project, following the steps below
 
 ```bash
 npm install
 
 npm run dev
+
+npm run build
+
 ```
 
-### Or install yarn:
+### Credits
 
-```bash
-npm install --global yarn
-```
+- Images from [Getty Images](https://www.gettyimages.com/)
+
+Made with 💓 by [Ibrahim Raimi](http://twitter.com/ibrahimraimi_)
