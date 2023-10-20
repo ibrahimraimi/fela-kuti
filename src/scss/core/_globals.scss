@@ -1,0 +1,22 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+
+  @media (max-width: 767px) {
+    font-size: calc(100vw / 750 * 10);
+  }
+}
+
+body {
+  font-family: $secondary-font;
+  background-color: $col-bg;
+  color: $col-text;
+  font-weight: 400;
+}
