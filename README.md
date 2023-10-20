@@ -4,7 +4,7 @@ A scroll-based layout switch animations.
 
 ![Image to Grid Transition featured image](static/cover.png)
 
-[Demo]()
+[Demo](https://fela-kuti.netlify.app/)
 
 ## Installation
 
